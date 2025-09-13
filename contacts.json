@@ -1,0 +1,22 @@
+{
+    "Mary": {
+        "phone": "4567893456789",
+        "comment": "otus",
+        "mail": "ajfolw@mail.ru"
+    },
+    "Alex": {
+        "phone": "1092487768",
+        "comment": "karpov",
+        "mail": "lskwfhihw@gmail.com"
+    },
+    "Mike": {
+        "phone": "123456789",
+        "comment": "DA",
+        "mail": "mike@mail.ru"
+    },
+    "Liya": {
+        "phone": "1234556",
+        "comment": "123456",
+        "mail": "1234567"
+    }
+}
