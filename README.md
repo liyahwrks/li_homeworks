@@ -1,2 +1,2 @@
-# otus
-otus_lessons
+# hw
+lessons
