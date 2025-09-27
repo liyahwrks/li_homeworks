@@ -18,5 +18,10 @@
         "phone": "1234556",
         "comment": "123456",
         "mail": "1234567"
+    },
+    "Dz2": {
+        "phone": "1111123",
+        "comment": "dz",
+        "mail": "otus@mail.ru"
     }
 }

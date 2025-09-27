@@ -1,2 +1,9 @@
-# hw
-lessons
+#Телефонный справочник
+
+Model (model/): Данные и бизнес-логика
+View (view/): Пользовательский интерфейс
+Controller (controller/): Связь между Model и View
+
+##Использование:
+- склонировать репу
+- python3 main.py
